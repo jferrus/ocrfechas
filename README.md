@@ -1,3 +1,3 @@
 # ocrfechas
 
-Este programa sirve para leer números, en concreto fechas con el siguiente formato dd/mm/aaaa.
+Este programa sirve para leer números de fechas a partir de una imagen, con el siguiente formato dd/mm/aaaa.
